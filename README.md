@@ -1,1 +1,1 @@
-# ciencia-covid
+# cienciaycovid
